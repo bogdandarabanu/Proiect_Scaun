@@ -1,1 +1,4 @@
 # Proiect_Scaun
+În acest proiect Java, am creat clasa "Scaun" cu membrii IDFabrica, pret, nrPicioare și anFabricatie. Această clasă are toate componentele necesare pentru a procesa informațiile despre un scaun. Am implementat o metodă pentru a testa dacă un scaun dat are anul de fabricație mai mare sau mai mic de 2000 și o altă metodă pentru a returna numărul de picioare pentru un scaun dat. De asemenea, am implementat o metodă de comparație care compară două scaune după preț și o metodă care primește o listă de scaune și un scaun și verifică dacă scaunul face parte sau nu din lista dată.
+
+Aceste funcții sunt apelate într-o metodă principală "main()" pentru a demonstra corectitudinea lor și pentru a afișa mesaje corespunzătoare. În plus, am creat o listă de scaune și am sortat această listă după preț, după care am verificat dacă primul scaun din lista sortată respectă criteriul de anul de fabricație mai mare sau mai mic de 2000.
